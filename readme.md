@@ -6,3 +6,8 @@ Upload to GCS
 Ingest EE  
 Clean up
 
+
+jupyter notebook --no-browser --ip=0.0.0.0 --allow-root --certfile=/.keys/mycert.pem --keyfile=/.keys/mykey.key --notebook-dir= /volumes/repos/flood_risk_analyzer_ingest/ --config=/volumes/repos/Aqueduct30Docker/jupyter_notebook_config.py
+
+
+
