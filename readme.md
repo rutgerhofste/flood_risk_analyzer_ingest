@@ -15,5 +15,11 @@ You can use the standard Aqueduct 3.0 Docker container to run the notebooks.
 
 `jupyter notebook --no-browser --ip=0.0.0.0 --allow-root --certfile=/.keys/mycert.pem --keyfile=/.keys/mykey.key --notebook-dir= /volumes/repos/flood_risk_analyzer_ingest/ --config=/volumes/flood_risk_analyzer_ingest/jupyter_notebook_config.py`
 
+Explore results in Earthengine although you might need the S3 folder structure to determine sensible settings.  
+https://code.earthengine.google.com/d1ca5e1a220dec13af7ef2055f60525a 
+
+
+
+
 
 
