@@ -1,4 +1,4 @@
-# Flood Risk Inundation
+# Flood Risk Inundation Data Ingestion
 
 This repo contains script used to convert NetCDF files to Geotiffs and ingest them in earthengine. The results are in earthengine imageCollection:
 `projects/WRI-Aquaduct/floods/Y2018M08D16_RH_Floods_Inundation_EE_V01/output_V05/inundation`
